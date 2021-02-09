@@ -1,0 +1,6 @@
+
+#ifndef TXV2_GLOBAL_VARIABLES_H
+#define TXV2_GLOBAL_VARIABLES_H
+
+
+#endif
